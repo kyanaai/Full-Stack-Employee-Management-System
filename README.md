@@ -1,7 +1,6 @@
-101488042_COMP3123_Assignment2
+#Full-Stack Employee Management System
 
 Student Name: Kiana Nezafat Yazdi
-Student ID: 101488042
 
 This project is a full-stack Employee Management System built with:
 	•	Backend: Node.js, Express, MongoDB Atlas
